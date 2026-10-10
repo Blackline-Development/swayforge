@@ -3,12 +3,12 @@
   "standardsVersion": "0.2.0",
   "project": {
     "displayName": "Sway Forge Development",
-    "repository": "cntintheslk-OneStepMoney/swayforge",
-    "owner": "cntintheslk-OneStepMoney",
+    "repository": "Blackline-Development/swayforge",
+    "owner": "Blackline-Development-DevOps",
     "ownerType": "user",
-    "number": 3,
+    "number": 5,
     "centralPortfolio": {
-      "owner": "cntintheslk-OneStepMoney",
+      "owner": "Blackline-Development-DevOps",
       "ownerType": "user",
       "number": 5
     }
